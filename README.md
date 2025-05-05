@@ -8,3 +8,11 @@
 ollama run deepseek-coder-v2:16b
 4)	Visual Studio 2022  https://visualstudio.microsoft.com/vs/express/
 5)	Clone the repository 
+
+
+### Run console app 
+
+Sample qustion 
+    - Write bubble sort method in c#
+
+    ![alt text](Image1.png)
