@@ -1,0 +1,2 @@
+https://www.byteplus.com/en/topic/398404?title=connect-to-deepseek-locally-with-c-a-complete-guide
+Write bubble sort method in c#
