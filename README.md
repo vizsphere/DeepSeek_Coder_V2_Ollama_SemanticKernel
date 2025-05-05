@@ -15,4 +15,4 @@ ollama run deepseek-coder-v2:16b
 Sample qustion 
     - Write bubble sort method in c#
 
-    ![alt text](Image1.png)
+    
