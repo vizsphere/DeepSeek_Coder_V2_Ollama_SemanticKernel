@@ -1,12 +1,12 @@
 ﻿using Microsoft.SemanticKernel;
 
-#pragma warning disable SKEXP0070 // Type is for evaluation purposes only and is subject to change or removal in future updates. Suppress this diagnostic to proceed.
+#pragma warning disable SKEXP0070 
 var kernelBuilder = Kernel.CreateBuilder()
     .AddOllamaTextGeneration(
        modelId: "deepseek-coder-v2:16b",
        endpoint: new Uri("http://localhost:11434")
     );
-#pragma warning restore SKEXP0070 // Type is for evaluation purposes only and is subject to change or removal in future updates. Suppress this diagnostic to proceed.
+#pragma warning restore SKEXP0070 
 
 var kernel = kernelBuilder.Build();
 
